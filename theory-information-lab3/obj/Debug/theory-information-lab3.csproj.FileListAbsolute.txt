@@ -1,0 +1,10 @@
+C:\Labs\theory-information\theory-information-lab3\theory-information-lab3\bin\Debug\theory-information-lab3.exe.config
+C:\Labs\theory-information\theory-information-lab3\theory-information-lab3\bin\Debug\theory-information-lab3.exe
+C:\Labs\theory-information\theory-information-lab3\theory-information-lab3\bin\Debug\theory-information-lab3.pdb
+C:\Labs\theory-information\theory-information-lab3\theory-information-lab3\obj\Debug\theory-information-lab3.csproj.AssemblyReference.cache
+C:\Labs\theory-information\theory-information-lab3\theory-information-lab3\obj\Debug\theory_information_lab3.fMain.resources
+C:\Labs\theory-information\theory-information-lab3\theory-information-lab3\obj\Debug\theory_information_lab3.Properties.Resources.resources
+C:\Labs\theory-information\theory-information-lab3\theory-information-lab3\obj\Debug\theory-information-lab3.csproj.GenerateResource.cache
+C:\Labs\theory-information\theory-information-lab3\theory-information-lab3\obj\Debug\theory-information-lab3.csproj.CoreCompileInputs.cache
+C:\Labs\theory-information\theory-information-lab3\theory-information-lab3\obj\Debug\theory-information-lab3.exe
+C:\Labs\theory-information\theory-information-lab3\theory-information-lab3\obj\Debug\theory-information-lab3.pdb
